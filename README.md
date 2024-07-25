@@ -55,17 +55,6 @@ Performance Matrix with Dual Filters: Scatter Plot showing the distribution of C
 
 Unit Economics: Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
 
-## Supply Chain View :
- View objective:
-
-1. Created a Dashboard for Supply Chain View
-
-KPI Visuals: KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
-
-Accuracy/Net Error Trend: Monthly Distribution of Net Error and Forecast Accuracy (cuurent and last year) using a Line and Clustered Column Chart.
-
-Key Metrics by Products: Distribution of Key metrics based on products for the Supply Chain Team.
-
 ## Executive View :
 # View objective:
 
